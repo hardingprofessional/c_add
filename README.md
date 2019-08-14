@@ -1,7 +1,7 @@
 # Pass By Reference
 
 C and Fortran are quite old languages. Most modern languages exist in a function based paradigm. The idea is as follows: Given a function 𝑓(𝑥)=𝑦
-, your programming functions should accept an input x and return an output 𝑦y.
+, your programming functions should accept an input x and return an output 𝑦.
 
 In C and Fortran, this behavior is the exception, not the norm. Instead, it was quite common to provide the address of where the function should write its results. This is more of a subroutine based paradigm.
 
